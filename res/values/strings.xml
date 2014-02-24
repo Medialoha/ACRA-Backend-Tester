@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="AppName">ACRA Backend Tester</string>
+    <string name="DefaultExceptionMessage">ACRA tester exception !</string>
+    <string name="ReportingInteractionText">OOooopss!!! Application crashed ! Sending report....</string>
+</resources>

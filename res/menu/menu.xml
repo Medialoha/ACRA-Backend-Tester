@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	
+	<item android:icon="@android:drawable/ic_menu_preferences" android:showAsAction="always" >
+		<menu>
+			<item android:id="@+id/actionSaveConfig" android:title="Save configuration" />
+			<item android:id="@+id/actionLoadConfig" android:title="Load configuration" />
+		</menu>
+	</item>
+	
+</menu>
